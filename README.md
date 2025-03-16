@@ -34,3 +34,5 @@
 # 
 ![sacreations's Stats](https://github-readme-stats.vercel.app/api?username=sacreations&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sacreations&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+

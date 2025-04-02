@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://sacreations.live](https://sacreations.live)
 
-- 💬 Ask me about **react ,viu and Javascript**
-
 - 📫 How to reach me **supunadithya@hotmail.com**
 
 # 

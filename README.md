@@ -83,36 +83,8 @@
 
 ---
 
-### 🔥 GitHub Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sacreations&theme=tokyonight" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sacreations&theme=tokyonight&row=1&column=7" />
-</div>
-
----
-
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sacreations&theme=tokyo-night" />
-</div>
-
----
-
-### 💡 Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-<div align="center">
-  <h3>“Think like a hacker, code like a developer.”</h3>
-  <p>🔍 I believe in building with curiosity, breaking limits, and securing everything I touch.</p>
-  <p>🛠 Let's collaborate on meaningful tech. Feel free to connect!</p>
+  <h3>“Life is a journey of growth, and the challenges we face are the stepping stones to becoming who we are meant to be.”</h3>
+  <p>🌱 Every day is an opportunity to evolve, learn, and embrace the beauty of life's struggles.</p>
+  <p>✨ Let's connect and share our stories, because together, we grow stronger.</p>
 </div>

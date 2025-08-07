@@ -20,7 +20,7 @@
 
 ### 🌐 Portfolio & Contact
 - 🔗 Portfolio: [sacreations.live](https://sacreations.live)
-- 📬 Email: [supunadithya@hotmail.com](mailto:hi@supunadithya.com)
+- 📬 Email: [hi@supunadithya.com](mailto:hi@supunadithya.com)
 
 ---
 

@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hey 👋, I'm Supun Adithya</h1>
   
-  <h3>💻 Full-Stack Developer | 🛡️ Cybersecurity Engineering Student | 🇱🇰 Based in Sri Lanka</h3>
+  <h3>💻 Full-Stack Developer |  🇱🇰 Based in Sri Lanka</h3>
   <img src="https://komarev.com/ghpvc/?username=supun-adithya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 

@@ -1,14 +1,16 @@
 <div align="center">
   <h1>Hey 👋, I'm Supun Adithya</h1>
+  
   <h3>💻 Full-Stack Developer | 🛡️ Cybersecurity Engineering Student | 🇱🇰 Based in Sri Lanka</h3>
   <img src="https://komarev.com/ghpvc/?username=supun-adithya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+
 ### 🚀 About Me
 
-- 🎓 Cybersecurity undergraduate at SLIIT  
+- 🎓  Undergraduate at SLIIT  
 - 🔧 Focused on backend development, API design & chatbot logic  
 - 🧠 Passionate about system-level programming & server automation  
 - 🖥️ Comfortable with Linux, Docker, Nginx, and modern DevOps tools  
@@ -87,4 +89,5 @@
   <h3>“Life is a journey of growth, and the challenges we face are the stepping stones to becoming who we are meant to be.”</h3>
   <p>🌱 Every day is an opportunity to evolve, learn, and embrace the beauty of life's struggles.</p>
   <p>✨ Let's connect and share our stories, because together, we grow stronger.</p>
+  <img alt="Coding" width="600" src="https://github.com/sacreations/sacreations/blob/main/assests/img/new_logo%20(1).png?raw=true">
 </div>

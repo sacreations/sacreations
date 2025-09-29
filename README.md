@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hey 👋, I'm Supun Adithya</h1>
   
-  <h3>💻 Full-Stack Developer |  🇱🇰 Based in Sri Lanka</h3>
+  <h3>💻 Full-Stack Developer | Based in Sri Lanka</h3>
   <img src="https://komarev.com/ghpvc/?username=supun-adithya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
@@ -11,17 +11,17 @@
 ### 🚀 About Me
 
 - 🎓  Undergraduate at SLIIT  
-- 🔧 Focused on backend development, API design & chatbot logic  
+- 🔧 Focused on backend development, API design 
 - 🧠 Passionate about system-level programming & server automation  
 - 🖥️ Comfortable with Linux, Docker, Nginx, and modern DevOps tools  
 - ✨ Always exploring better ways to secure and scale applications  
-- 📌 Currently diving deep into JavaScript, Node.js, and distributed systems  
+- 📌 Currently diving deep into Node.js and distributed systems  
 - 🎯 Goal: Blend development & security to build future-proof systems
 
 ---
 
 ### 🌐 Portfolio & Contact
-- 🔗 Portfolio: [sacreations.live](https://sacreations.live)
+- 🔗 Portfolio: [sacreations.live](https://supunadithya.com)
 - 📬 Email: [hi@supunadithya.com](mailto:hi@supunadithya.com)
 
 ---
